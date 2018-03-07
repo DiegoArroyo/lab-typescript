@@ -3,7 +3,7 @@
 // - A boolean to mark if it's done.
 // - A property updatedAt, obiously is a date.
 // - Method for toogle if it's done or not, doesn't return anything.
-
+//esto lo va a hacer mi verga
 // Write the interface for class Todo. It must have:
 // - An array of TodoItem as a property.
 // - Method for adding task where will receive an instance of TodoItem, doesn't return anything.
